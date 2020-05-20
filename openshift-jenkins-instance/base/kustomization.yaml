@@ -5,3 +5,4 @@ namespace: jenkins
 
 resources:
 - jenkins-jenkins.yaml
+- jenkins-route.yaml
